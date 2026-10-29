@@ -4,7 +4,7 @@
 
 **Estudante de Desenvolvimento de Sistemas | Desenvolvedor Web em formação**
 
-[GitHub](https://github.com/heitorcfcazella-prog) · [LinkedIn](https://www.linkedin.com/in/heitor-c%C3%A9sar-f-cazella-correa-69b5bb371) · [Site pessoal](https://heitorcfcazella-prog.github.io/heitor-cesar-portfolio/index.html)
+[LinkedIn](https://www.linkedin.com/in/heitor-c%C3%A9sar-f-cazella-correa-69b5bb371) · [Site pessoal](https://heitorcfcazella-prog.github.io/heitor-cesar-portfolio/index.html)
 
 
 ---
@@ -43,6 +43,12 @@ Atualmente, estou desenvolvendo projetos próprios para consolidar meus conhecim
 </p>
 
 ## Projetos em destaque
+
+### [Tailwindcss-WeatherApp](https://github.com/heitorcfcazella-prog/Tailwindcss-WeatherApp)
+
+Aplicação web de previsão do tempo utilizando a API Open-Meteo e estilizada com Tailwind CSS.
+
+**Tecnologias:** HTML · Tailwind CSS · JavaScript · APIs REST
 
 ### [LoanLink](https://github.com/heitorcfcazella-prog/loanlink)
 
